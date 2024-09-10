@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Setting up a new repository locally and linking it with github git init;
 
@@ -21,3 +22,6 @@ git restore --source <hash for version> <specific files>: You can specify files 
 main * -> something is modified
 main + -> something has beeen added/staged, but not committed
 main ! -> There are unmerge conflicts
+=======
+Git
+>>>>>>> 6b4b18bc71f7034b94d43bac0d5f541825fb274f
